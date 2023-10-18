@@ -7,7 +7,7 @@ In this project, I will be using my skills in Excel and Python to dive deep into
 The next phase of the project will involve harnessing the power of Tableau to create visually compelling and informative data visualizations. These visuals will not only help us understand sales trends but also uncover insights that can drive strategic decisions. 
 
 
-# Project Title:** Amazon Sales Data Analysis
+# Project Title: Amazon Sales Data Analysis
 
 **Project Overview:**
 
