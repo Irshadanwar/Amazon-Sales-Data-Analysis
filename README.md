@@ -46,5 +46,5 @@ In this project, I undertook a comprehensive analysis of Amazon sales data with 
 
 The Amazon Sales Data Analysis project followed a systematic approach, incorporating data cleaning, imputation, visualization, and analysis, with detailed documentation and presentations. The "First1.mp4" video presentation added an interactive dimension to the project, making it more engaging and informative. The project's insights are invaluable for data-driven decision-making, and the comprehensive documentation ensures that stakeholders and team members have a clear understanding of the project's significance and outcomes.
 
-Here is the link to my Experience Letter :
+Here is the link to my Experience Letter at PW :
 https://internship-cdn.pwskills.com/certificates/eeb5d172-e86e-411b-bf36-a0b4f95f903c.pdf
